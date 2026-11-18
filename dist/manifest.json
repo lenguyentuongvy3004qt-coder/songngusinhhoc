@@ -1,0 +1,18 @@
+{
+  "name": "BioCell 10 • Thuật ngữ Sinh học 10 Song ngữ (SGK 2026)",
+  "short_name": "BioCell 10",
+  "description": "Kho học liệu số tra cứu, học thẻ Flashcard và luyện tập thuật ngữ Sinh học 10 song ngữ Anh - Việt SGK 2026.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#059669",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
