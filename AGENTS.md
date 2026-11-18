@@ -1,6 +1,6 @@
-# Agent instructions for `@supabase/auth-js`
+# Agent instructions for `@supabase/realtime-js`
 
-Supabase Auth client SDK for JavaScript. Handles sign-in, sign-up, sessions, OAuth, MFA, and related auth flows.
+Listen to realtime updates from a Supabase PostgreSQL database. Handles channels, presence, broadcast, and Postgres CDC subscriptions.
 
 When helping a user work with this package:
 
